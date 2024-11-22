@@ -30,3 +30,40 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Project website
 
 https://neomoshen.github.io/cookies_landing_web_page_NEOmosheN/
+
+
+
+
+
+## Ru
+# Cookies_landing_web_page_NEOmosheN
+
+Этот проект был создан с помощью [Angular CLI](https://github.com/angular/angular-cli) версии 16.2.16.
+
+## Development server
+
+Запустите `ng serve` для сервера разработки. Перейдите к `http://localhost:4200/`. Приложение автоматически перезагрузится, если вы измените какой-либо из исходных файлов.
+
+## Code scaffolding
+
+Запустите `ng generate component component-name`чтобы сгенерировать новый компонент. Вы также можете использовать `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Запустите `ng build` для сборки проекта. Файлы сборки будут сохранены в каталоге `dist/` directory.
+
+## Running unit tests
+
+Запустите `ng test` для выполнения модульных тестов с помощью [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Запустите `ng e2e`, чтобы выполнить комплексные тесты с помощью выбранной вами платформы. Чтобы использовать эту команду, вам необходимо сначала добавить пакет, который реализует возможности комплексного тестирования.
+
+## Further help
+
+Чтобы получить дополнительную справку по Angular CLI, воспользуйтесь `ng help` или перейдите на страницу [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Project website
+https://neomoshen.github.io/cookies_landing_web_page_NEOmosheN/
